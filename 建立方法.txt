@@ -1,0 +1,4 @@
+需要安裝MinGW-w64 參考https://www.gushiciku.cn/pl/g1SA/zh-tw
+設定環境變數 讓gcc可以全域使用
+在VSCode命令列(Ctrl+Shift+P) 輸入"C/C++ edit" 可以設定編譯器路徑&IntelliSense 模式
+完成得到c_cpp_properties 然後執行偵錯 可以正常debug
